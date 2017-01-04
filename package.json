@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404minds/website.git"
+  },
+  "author": "Tushar Agarwal <niftytushar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/404minds/website/issues"
+  },
+  "homepage": "https://github.com/404minds/website#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
