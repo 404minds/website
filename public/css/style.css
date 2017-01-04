@@ -154,7 +154,6 @@ footer,
   font-size: 28px;
   font-weight: 300;
   letter-spacing: 2px;
-  text-transform: uppercase;
   line-height: 45px;
   margin: 0;
 }
@@ -726,6 +725,10 @@ footer,
 
 #contact input[type='submit']:hover {
   background: #444;
+}
+
+#contact textarea {
+  resize: vertical;
 }
 
 
