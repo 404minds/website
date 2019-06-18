@@ -1,7 +1,7 @@
 <?php
 $errors = '';
 /* Replace with your email */
-$myemail = 'khaitawng2014@gmail.com';
+$myemail = 'info@404minds.com';
 if(empty($_POST['name']) ||
    empty($_POST['email']) ||
    empty($_POST['message']))

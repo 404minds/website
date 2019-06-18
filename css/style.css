@@ -68,6 +68,7 @@ strong {
 #about,
 #team,
 #blog,
+#what-we-do,
 #portfolio,
 #contact,
 #pricing {
@@ -77,12 +78,14 @@ strong {
 
 #about,
 #blog,
+#what-we-do,
 #contact {
   background-color: #f0f0f0;
 }
 
 #team,
 #blog,
+#what-we-do,
 #portfolio,
 footer,
 #pricing {
@@ -262,7 +265,7 @@ footer,
   background-color: #ffffff;
   border-radius: 4px;
   position: relative;
-  padding: 45px;
+  padding: 35px;
   margin-top: 32px;
 }
 
@@ -824,6 +827,7 @@ footer {
   #about,
   #team,
   #blog,
+  #what-we-do,
   #portfolio,
   #contact {
     padding-top: 80px;
