@@ -1,7 +1,7 @@
 <?php
 $errors = '';
 /* Replace with your email */
-$myemail = 'khaitawng2014@gmail.com';
+$myemail = 'info@404minds.com';
 if(empty($_POST['name']) ||
    empty($_POST['email']) ||
    empty($_POST['message']))
@@ -31,43 +31,3 @@ if( empty($errors) ) {
 	header('Location: thank-you.html');
 }
 ?>
-<!Doctype html>
-<html lang="en">
-<head>
-
-	<title>Thank you!</title>
-
-<!-- define some style elements-->
-
-<style>
-
-label,a,body {
-	font-family : 'Source Sans Pro', Helvetica, sans-serif;
-	font-size : 14px;
-}
-.respond {
-	padding: 100px 0;
-	text-align: center;
-}
-
-</style>	
-
-<!-- a helper script for vaidating the form-->
-</head>	
-<body>
-
-<div class="respond">
-
-	<h1>Thank you!</h1>
-	<p>Thank you for submitting the form. We will contact you soon!</p>
-
-</div>
-
-</body>
-</html>
-
-
-
-
-
-
